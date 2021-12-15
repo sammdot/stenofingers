@@ -1,2 +1,3 @@
-# stenofingers
-OpenType steno board fingering diagram font
+# StenoFingers
+
+OpenType steno board fingering diagram font.
